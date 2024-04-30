@@ -13,7 +13,7 @@ Para criação foi apenas necessario informar para a IA, os topicos
 que deveria ser abordados, e o formato que deveria ser montado.
 
 ## 🚀 Resultados
-[Apresentação Final]("https://gamma.app/embed/3v9yzjt66fbb878")
+[Apresentação Final](https://gamma.app/docs/Inteligencia-Artificial-Generativa-3v9yzjt66fbb878)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
